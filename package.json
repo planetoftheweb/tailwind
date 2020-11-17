@@ -1,0 +1,15 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind.css` . The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Ray Villalobos",
+  "homepage": "https://github.com/planetoftheweb/tailwind#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "tailwindcss": "^1.9.6"
+  }
+}
